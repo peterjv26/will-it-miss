@@ -1,0 +1,7 @@
+This is a test file added with belo sequence of events
+
+1.Forked will-it-miss from peterjv26 to pjv26
+
+2. Cloned it locally from pjv26
+
+3. Added this file to the cloned version
